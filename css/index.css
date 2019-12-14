@@ -66,6 +66,27 @@ p {
     line-height: 1.4;
 }
 
+.nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+}
+
+header nav a {
+    text-decoration: none;
+    color: black;
+    
+}
+
+header nav img {
+    margin-top: 3%;
+}
+
+.jumbo {
+    display: flex;
+    margin: 5% 0 5% 0;
+}
+
 .container {
     width: 800px;
     margin: 0 auto;
@@ -98,7 +119,87 @@ p {
 .middle-content .boxes {
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-evenly;
+    justify-content: space-around;
+}
+
+.box-1 {
+    background: teal;
+    text-align: center;
+    color: white;
+    padding: 40px 25px 40px 25px;
+    margin: 3%;
+}
+
+.box-2 {
+    background: gold;
+    text-align: center;
+    color: white;
+    padding: 40px 25px 40px 25px;
+    margin: 3%;
+}
+
+.box-3 {
+    background: cadetblue;
+    text-align: center;
+    color: white;
+    padding: 40px 25px 40px 25px;
+    margin: 3%;
+}
+
+.box-4 {
+    background: coral;
+    text-align: center;
+    color: white;
+    padding: 40px 25px 40px 25px;
+    margin: 3%;
+}
+
+.box-5 {
+    background: crimson;
+    text-align: center;
+    color: white;
+    padding: 40px 25px 40px 25px;
+    margin: 3%;
+}
+
+.box-6 {
+    background: forestgreen;
+    text-align: center;
+    color: white;
+    padding: 40px 25px 40px 25px;
+    margin: 3%;
+}
+
+.box-7 {
+    background: darkorchid;
+    text-align: center;
+    color: white;
+    padding: 40px 25px 40px 25px;
+    margin: 3%;
+}
+
+.box-8 {
+    background: hotpink;
+    text-align: center;
+    color: white;
+    padding: 40px 25px 40px 25px;
+    margin: 3%;
+}
+
+.box-9 {
+    background: indigo;
+    text-align: center;
+    color: white;
+    padding: 40px 25px 40px 25px;
+    margin: 3%;
+}
+
+.box-10 {
+    background: dodgerblue;
+    text-align: center;
+    color: white;
+    padding: 40px 25px 40px 20px;
+    margin: 3%;
 }
 
 .middle-content .boxes .box {
