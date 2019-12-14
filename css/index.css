@@ -245,3 +245,170 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
+
+.nav-about {
+    width: 800px;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    margin-left: 18%;
+}
+
+.jumbo-about {
+    width: 800px;
+    margin: 5% 0% 2% 18%;
+}
+
+.about-top {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    margin-bottom: 20px;
+    border-bottom: 1px dashed black;
+}
+
+.top-about {
+    margin-bottom: 3%;
+    width: 800px;
+}
+
+.top-about h2 {
+    margin-left: 2%;
+}
+
+.top-about p {
+    margin-left: 2%;
+}
+
+.last-section {
+    display: flex;
+    flex-wrap: wrap;
+   margin: 15px auto 30px auto;
+    width: 800px;
+}
+
+.last-section h2 {
+    margin-left: 2%;
+}
+
+.last-section p {
+    margin-left: 2%;
+}
+
+.aboutrow1 {
+    display: flex;
+	width: 800px;
+	margin: 0 auto;
+    padding: 35px 5px;
+    justify-content: center;
+}
+
+.aboutrow2{
+    display: flex;
+	width: 800px;
+	margin: 0 auto;
+	padding: 35px 5px;
+}
+
+.about-strats {
+    margin-right: 3%;
+    border-bottom: 1px dashed black;
+    padding-bottom: 30px;
+}
+.about-strats img {
+    width: 100%;
+}
+
+.about-strats h2 {
+    margin-top: 3%;
+}
+.about-strats p {
+    margin-bottom: 3%;
+}
+.about-strats button {
+    border: 1px solid;
+    background: white;
+    padding: 10px 25px;
+    font-size: medium;
+    border-radius: 10px;
+    margin-top: 5%;
+}
+
+.about-work {
+    border-bottom: 1px dashed black;
+    padding-bottom: 30px;
+}
+
+.about-work img {
+    width: 100%;
+}
+
+.about-work h2 {
+    margin-top: 3%;
+}
+
+.about-work p {
+    margin-bottom: 3%;
+}
+
+.about-work button {
+    border: 1px solid;
+    background: white;
+    padding: 10px 25px;
+    font-size: medium;
+    border-radius: 10px;
+    margin-top: 5%;
+}
+
+.about-places {
+    margin-right: 3%;
+    border-bottom: 1px dashed black;
+    padding-bottom: 30px;
+}
+
+.about-places img {
+    width: 100%;
+}
+
+.about-places h2 {
+    margin-top: 3%;
+}
+
+.about-places p {
+    margin-bottom: 3%;
+}
+
+.about-places button {
+    border: 1px solid;
+    background: white;
+    padding: 10px 25px;
+    font-size: medium;
+    border-radius: 10px;
+    margin-top: 5%;
+}
+
+.about-collab {
+    border-bottom: 1px dashed black;
+    padding-bottom: 30px;
+}
+
+.about-collab img {
+    width: 100%;
+}
+
+.about-collab h2 {
+    margin-top: 3%;
+}
+
+.about-collab p {
+    margin-bottom: 3%;
+}
+
+.about-collab button {
+    border: 1px solid;
+    background: white;
+    padding: 10px 25px;
+    font-size: medium;
+    border-radius: 10px;
+    margin-top: 5%;
+}
